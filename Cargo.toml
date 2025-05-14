@@ -1,0 +1,7 @@
+[package]
+name = "certain_encryption_decryptor"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+simple-rijndael = "0.3.2"
